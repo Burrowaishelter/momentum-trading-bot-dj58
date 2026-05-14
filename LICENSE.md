@@ -1,4 +1,4 @@
-# 
+# updated momentum trading bot Module | technical-indicators + volume-analysis is the best momentum trading bot, featuring technical-indicators and volume-analysis. Smart, fast, and
 
 
 
